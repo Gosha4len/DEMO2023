@@ -64,7 +64,7 @@
        5) ПКМ по сетевому адаптеру
          6) Выбираете ваш сетевой адаптер и заполняете его:
 ```
-![image](\screenshots\cli1.png)
+![image](/screenshots/cli_ipv4.png)
 
 #### ISP
 
