@@ -1,12 +1,8 @@
 # DEMO2023
-
+![Static Badge](https://img.shields.io/badge/Debian-12-a80030) ![Static Badge](https://img.shields.io/badge/Windows-10-0079d7) ![Static Badge](https://img.shields.io/badge/Windows-Server%202022-001190) ![Static Badge](https://img.shields.io/badge/Cisco-CSR-00a0da)
 # Образец задания
 Образец задания для демонстрационного экзамена по комплекту оценочной
 документации.
-
-# Описание задания
-# Модуль 1
-Вариант 1-0 (публичный)
 
 ![image](/screenshots/scheme_logo.png)
 
